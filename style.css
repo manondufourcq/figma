@@ -20,41 +20,28 @@ body {
     height: 80%;
   }
   
-
-
-  h1 {
-    display: flex;
-    text-align: justify;
-    font-size: 2.9rem;
-    color: #fff;
-    margin-left: 1.9rem;
-    font-family: Arial, Helvetica, sans-serif;
-    letter-spacing: 1.5rem;
-    margin-top: 2rem;
-    
-  }
-  
   h2 {
     font-size: 1em;
-    color: #fff;
+    color: rgba(96, 78, 58, 1);
     margin-left: 2.1rem;
     font-family: 'inter';
     font-weight: 200;
     margin-top: -1.2rem;
     text-align: left;
   }
-  
-  
-  a{
-  color: white;
-  text-decoration: none;
+
+  h1 {
+    display: flex;
+    text-align: left;
+    font-size: 2.9rem;
+    color:rgba(96, 78, 58, 1);
+    margin-left: 1.9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2rem;
+    
   }
   
-  a:hover {
-    font-weight: bold;
-    text-decoration: underline;
-  }
-  
+
   
   h3 {
     font-size: 0.7rem;
@@ -66,47 +53,7 @@ body {
     margin-left: 2.1rem;
   }
   
-  .buttons {
-    display: flex;
-    justify-content: center;
-    margin: 3rem;
-  }
+ 
   
-  .ctc {
-   border: 0.9px solid white;
-    background-color: transparent;
-    text-align: center;
-    padding: 0.5rem 1.5rem;
-    font-size: 15px;
-    text-decoration: none;
-    color: white;
-    margin-right: 2.1rem;
-    font-weight: 300;
-  }
-  
-  .ctc:hover {
-    filter: drop-shadow(0px -1px 2px rgb(255,255, 255));
-  }
-  
-  .cv {
-    border: 0.9px solid white;
-    background-color: transparent;
-    padding: 0.5rem 1.5rem;
-    font-size: 15px;
-    text-decoration: none;
-    color: white;
-    margin-right: -0.1rem;
-    font-weight: 300;
-    
-  }
-  
-  .cv:hover{
-    filter: drop-shadow(0px -1px 2px rgb(255,255, 255));
-  }
-  
-  
-  
-  .footer {
-      margin-top: 330px;
-    }
+
     
